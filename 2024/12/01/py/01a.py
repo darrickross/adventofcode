@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+# https://adventofcode.com/2024/day/1
+
 import os
 
 INPUT_FILE_REL_PATH = "../input"
