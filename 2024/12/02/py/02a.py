@@ -4,7 +4,7 @@
 
 import os
 
-INPUT_FILE_REL_PATH = "../input_a"
+INPUT_FILE_REL_PATH = "../input"
 INPUT_FILE_PATH = os.path.join(os.path.dirname(__file__), INPUT_FILE_REL_PATH)
 
 MAX_DIFF = 3
